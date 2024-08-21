@@ -3,7 +3,7 @@
 ## 安装 
 
 ~~~
-composer require thefunpower/curl_authorization ^1.x
+composer require thefunpower/curl_authorization
 ~~~
 
 
